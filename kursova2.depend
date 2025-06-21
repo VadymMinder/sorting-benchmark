@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1682885030 source:c:\univers\kurs1.2\kursova2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<time.h>
+	<conio.h>
+	"sort.h"
+	"fill.h"
+	"measurement.h"
+
+1682588638 c:\univers\kurs1.2\kursova2\sort.h
+	<time.h>
+
+1682588053 source:c:\univers\kurs1.2\kursova2\sort.c
+	"sort.h"
+	<time.h>
+	<math.h>
+	<stdlib.h>
+
+1682586709 source:c:\univers\kurs1.2\kursova2\fill.c
+	"fill.h"
+	<stdlib.h>
+
+1682586797 c:\univers\kurs1.2\kursova2\fill.h
+
+1682588265 source:c:\univers\kurs1.2\kursova2\measurement.c
+	"measurement.h"
+	"fill.h"
+	"sort.h"
+	<time.h>
+	<stdio.h>
+
+1682884521 c:\univers\kurs1.2\kursova2\measurement.h
+	<time.h>
+
